@@ -1,4 +1,4 @@
-# 👨‍💻 Shingo Kobayashi | iOS & Full-stack Engineer
+# 👨‍💻 Shingo Kobayashi || iOS && Full-stack Engineer
 
 iOSエンジニアを軸に、AIを活用した爆速開発でフロントエンドからインフラまで一気通貫で手掛けるフルスタックエンジニアです。
 **iOSDC Japan 2025 ゴールドスポンサー**としての活動や、大規模イベントでの登壇・技術執筆を通じてコミュニティへ貢献しています。
