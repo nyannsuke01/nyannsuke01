@@ -1,16 +1,18 @@
 # 👨‍💻 Shingo Kobayashi || iOS Mobile App Engineer
 
-iOSエンジニアを軸に、AIを活用した爆速開発でフロントエンドからインフラまで幅広く手掛けるエンジニアです。
+モバイルエンジニアを軸に、AIを活用した開発でフロントエンドからインフラまで幅広く手掛けるエンジニアです。
 **iOSDC Japan 2025 ゴールドスポンサー**としての活動や、大規模イベントでの登壇・技術執筆を通じてコミュニティへ貢献しています。
 
 ---
 
-## 🚀 Recent Activities & Achievements
+## 🚀 Recent Activities 
 
 ### 🎤 Community & Speaking
 - **iOSDC Japan 2025 Gold Sponsor / Speaker**
   - [iOSDC 2025 参加レポート & スポンサー活動](https://zenn.dev/coconala/articles/coconala-iosdc-2025)
   - [coconala iOS Meetup登壇: iOSDC 2025を振り返る](https://coconala.connpass.com/event/369905/)
+- [Swift TestingによるモダンなiOSテスト手法とBDD](https://speakerdeck.com/coconala_engineer/swifttestingniyoru-motannaiostesutoshou-fa-tobdd)
+
 
 ### ✍️ Technical Articles
 - [UIStackViewを使いこなす：複雑なレイアウトをシンプルに保つ技術](https://zenn.dev/coconala/articles/d437fb921d61b6)
